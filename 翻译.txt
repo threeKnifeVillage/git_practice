@@ -2,7 +2,7 @@ te/strings.xml
 <string name="duetCaption">\@%1$sతో #డ్యూయె్</string>
 
   pa-rIN  <string name="duetCaption">\@%1$s ਦੇ ਨਾਲ #ਦੋਗਾਣਾ</string>
-  我再这里
+  我再这里,我后修改
   
   
   "showVOs":[{"showId":260069493102776320,"userId":76471286675218432,"user":{"userId":76471286675218432,"userIdStr":"76471286675218432","userIdBid":"MTMxMDE3NjQ3MTI4NjY3NTIxODQzMg","emailVerified":false,"nickName":"MTV","realName":"MTV","displayName":"MTV","icon":"https: //musically.muscdn.com/res/usericon/432/icon-76471286675218432-990.jpg","isFeatured":true,"isPrivateAccount":false,"userDesc":"MTV","disabled":false,"handle":"mtv","insertTime":1458574891000},"caption":"Wild'NOut","status":2,"thumbnailUri":"http: //musically.muscdn.com/ops/upload/showThunbnail/2017/08/10/14/f108edeb-06f5-4c96-9f61-f828d7b2f8a4.jpg","officialMusicalThumbnailUri":"http: //musically.muscdn.com/reg02/2017/08/10/14/4eea690a-888a-459b-98bb-160a9b8ecd32_yFfXIcqwsm.jpg","officialMusicalPreviewUri":"http: //musically.muscdn.com/reg02/2017/08/10/14/19dd9ebf-1bfd-4117-b2e4-9f5cd8823065.jpg"}]
